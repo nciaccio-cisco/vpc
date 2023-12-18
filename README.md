@@ -20,7 +20,7 @@
 
 - Its generally safer to use for_each instead of count because with count resource instances are identified by their index instead of the string values in the list. An update to the positioning of items in the list could cause unintended remote changes. For the purposes of this exercise count is sufficiently functional
 - Normally the VPC module should reside within its own github repository seperate from the module where its declared so that proper release management and git tag versioning can be done. Declared modules should always refer to a specific git revision or tag to ensure unwanted changes dont get deployed. For simplicity and the purpose of this exercise I've kept them together
-- State should be stored remotely on something like s3, so that the statefile is not stored local not easily lost. For this exercise I've kept it using local state
+- State should be stored remotely on something like s3, so that the statefile is not stored local and not easily lost. For this exercise I've kept it using local state
 
 Successful Apply:
 
