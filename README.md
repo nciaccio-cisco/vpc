@@ -23,4 +23,5 @@
 
 Successful Apply:
 
-![Screenshot 2023-12-18 at 9 59 26 AM](https://media.github.office.opendns.com/user/2355/files/a17fabab-63f3-4880-8cfd-60aeb0b22e99)
+![Screenshot 2023-12-18 at 9 59 26 AM](https://github.com/nciaccio-cisco/vpc/assets/124817502/fc61b1a3-87e2-4d13-9153-6f0a069e39e0)
+
